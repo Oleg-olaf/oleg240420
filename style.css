@@ -56,7 +56,7 @@ img {
 
 .features {
   margin-bottom: 30px;
-  background: url("формалити.jpg") center bottom;
+  background: url("формалити.jpg") no-repeat center 30% 30%;
 }
 
 .features p {
