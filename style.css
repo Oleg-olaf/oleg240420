@@ -57,6 +57,7 @@ img {
 .features {
   
   background-image: url("формалити.jpg");
+  background-size: cover;
 }
 
 .features p {
