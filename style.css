@@ -60,7 +60,7 @@ img {
 }
 
 .features p {
-  display: inline-block;
+  display: inline;
   vertical-align: top;
   width: 30%;
   margin: 0 5px;
