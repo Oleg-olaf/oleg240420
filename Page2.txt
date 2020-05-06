@@ -2,15 +2,13 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8">
-    <title>Биография</title>
+    <title>ГЃГЁГ®ГЈГ°Г ГґГЁГї</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-          </section>
-
-      <footer>
-        <p>© Б. Хилл, 1924-1992</p>
-        <p>Старая добрая дождливая Англия</p>
+         <footer>
+        <p>В© B.Hill, 1924-1992</p>
+        <p>Ya olde England</p>
       </footer>
   </body>
 </html>
