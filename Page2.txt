@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Биография</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+          </section>
+
+      <footer>
+        <p>© Б. Хилл, 1924-1992</p>
+        <p>Старая добрая дождливая Англия</p>
+      </footer>
+  </body>
+</html>
