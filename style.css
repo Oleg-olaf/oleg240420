@@ -18,7 +18,8 @@ h2 {
   border-bottom: 1px solid #cccccc;
 }
 
-img {
+img {width: 260px;
+  height: 260px;
 }
 
 .site-header {
